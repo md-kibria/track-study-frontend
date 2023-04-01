@@ -11,7 +11,7 @@ import Dashboard from "./pages/dashboard";
 import Books from "./pages/books";
 import Bookmarks from "./pages/bookmarks";
 import Favourites from "./pages/favourites";
-import SignUp from "./pages/auth/Signup";
+import SignUp from "./pages/auth/SignUp";
 import Login from "./pages/auth/Login";
 import { useStoreActions } from "easy-peasy";
 import { useEffect } from "react";
