@@ -1,0 +1,5 @@
+Skeleton Loader
+Error Message
+Dashboard (page)
+Setting (page)
+Profile Update (without login again)

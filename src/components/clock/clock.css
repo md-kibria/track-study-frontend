@@ -1,0 +1,33 @@
+.clockContainer {
+    margin-top: 50px;
+}
+
+.clockContainer .clock {
+    margin: 10px auto;
+    height: 120px !important;
+    width: 120px !important;
+    /* color: #707070; */
+}
+
+.clockContainer .digitalClock {
+    font-size: 34px;
+    margin: 10px auto;
+    text-align: center;
+    color: #707070;
+}
+
+.react-clock__face {
+    border-color: #707070;
+  }
+
+.react-clock__hand__body {
+    background-color: #707070 !important;
+}
+
+.react-clock__mark__body {
+    background-color: #707070 !important;
+}
+
+/* .react-clock__second-hand__body {
+    background-color: red !important;
+  } */
